@@ -34,11 +34,11 @@ class GroundVehicle(Vehicle):
 
 
 # class tier 3
-class StarShip(FlightVehicle):
+class Starship(FlightVehicle):
     pass
 
 
-class AirPlane(FlightVehicle):
+class Airplane(FlightVehicle):
     pass
 
 
