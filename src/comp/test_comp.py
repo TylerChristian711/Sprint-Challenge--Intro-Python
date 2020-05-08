@@ -40,3 +40,5 @@ class CompTests(unittest.TestCase):
 
 if __name__ == '__main__':
   unittest.main()
+
+#comment for a commit message
